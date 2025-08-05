@@ -34,3 +34,9 @@ Verify endpoints:
 
 $ kubectl get endpoints app1-svc app2-svc
 
+
+![4B15AC57-2775-4BC5-B679-5E74B0518E0E](https://github.com/user-attachments/assets/d9c208f1-6e0e-404f-8963-67897f0eda29)
+
+
+
+
