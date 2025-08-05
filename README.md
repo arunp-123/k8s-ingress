@@ -35,7 +35,16 @@ Verify endpoints:
 $ kubectl get endpoints app1-svc app2-svc
 
 
-![4B15AC57-2775-4BC5-B679-5E74B0518E0E](https://github.com/user-attachments/assets/d9c208f1-6e0e-404f-8963-67897f0eda29)
+Test the application working
+
+http://ec2-1p/app1
+http://ec2-ip/app2
+
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/f1c412cf-1a86-4b5c-94a9-8ddc19de7738" />
+
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/e617d5b5-1a40-444b-9bf3-adab6508a91c" />
+
+
 
 
 
