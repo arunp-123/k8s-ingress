@@ -37,7 +37,7 @@ $ kubectl get endpoints app1-svc app2-svc
 
 Test the application working
 
-http://ec2-1p/app1
+http://ec2-ip/app1
 
 http://ec2-ip/app2
 
