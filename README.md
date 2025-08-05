@@ -38,6 +38,7 @@ $ kubectl get endpoints app1-svc app2-svc
 Test the application working
 
 http://ec2-1p/app1
+
 http://ec2-ip/app2
 
 <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/f1c412cf-1a86-4b5c-94a9-8ddc19de7738" />
